@@ -8,12 +8,6 @@
 
 ---
 
-## 📸 Preview
-
-![Portfolio Preview](me.png)
-
----
-
 ## ✨ Features
 
 - **Brutalist Design** — Bold black/red aesthetic with dot-grid background and stark typography
